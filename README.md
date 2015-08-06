@@ -1,5 +1,7 @@
 # razordemo
 
+***This will not work with 2015.2!! Only works with 3.8.x***
+
 Credit: The types and providers under lib here are taken and slightly modified
 from Lavaburn/razor.  I intend to wrap some case statements around the changes
 from <3.8 to >3.8 in terms of ports and security, and commit those upstream
